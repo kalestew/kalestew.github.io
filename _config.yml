@@ -13,7 +13,7 @@ name                     : &name "Kyle James Anderson"
 description              : &description "UCSF Biophysics PhD Student"
 url                      : https://kylejamesanderson.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kalestew.github.io.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Anderson"
-  avatar           : "avatar.jpg"
+  avatar           : "avatar1.jpg"
   bio              : "Future UCSF Biophysics PhD Student | Virginia Tech Nanomedicine and Biochemistry Student"
   location         : "Blacksburg, VA"
   employer         : "Virginia Polytechnic & State University"
